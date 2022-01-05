@@ -1,4 +1,3 @@
 # The-C-Programming-Language-2nd-Ed.
-I'm doing all the exercises in K&R Second Edition as an exercise to get better at C.
-
+I'm doing the exercises in K&R Second Edition for fun to refresh my C
 In loving memory of Dennis Ritchie <3
